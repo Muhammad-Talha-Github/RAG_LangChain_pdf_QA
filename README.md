@@ -1,6 +1,6 @@
 # 📄 PDF AI Assistant — Ask Your PDFs Using Gemini 1.5 + LangChain
 
-This is an intelligent, modern, and free-to-use Streamlit web app that allows you to ask **natural language questions** about any PDF — like research papers, reports, or textbooks — powered by:
+This is an intelligent, modern, and free-to-use Streamlit web app that allows you to ask questions about any PDF — like research papers, reports, or textbooks — powered by:
 
 - 🔍 Retrieval-Augmented Generation (RAG)
 - 💬 Google Gemini 1.5 Flash (via API)
