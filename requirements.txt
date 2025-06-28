@@ -1,6 +1,7 @@
 streamlit
+PyMuPDF
 langchain
 faiss-cpu
+google-generativeai
+transformers
 sentence-transformers
-PyMuPDF
-requests
