@@ -5,3 +5,4 @@ faiss-cpu
 google-generativeai
 transformers
 sentence-transformers
+torch
