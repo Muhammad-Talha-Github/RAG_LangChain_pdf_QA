@@ -84,7 +84,8 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-
+### 🔹 App
+![Upload Screenshot](screenshots/upload.png)
 ---
 
 ## 👨‍💻 Developed By
